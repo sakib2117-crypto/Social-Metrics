@@ -1,0 +1,6 @@
+{
+  "name": "SocialMetrics - Competitor Benchmark Suite",
+  "description": "Social media analytics, competitive intelligence, share of voice tracking, and growth velocity benchmarking across platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
